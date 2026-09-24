@@ -1,0 +1,12 @@
+{
+  "name": "talkie-cloud-signaling-server",
+  "version": "1.0.0",
+  "private": true,
+  "main": "talkie-cloud-signaling-server.js",
+  "scripts": {
+    "start": "node talkie-cloud-signaling-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
